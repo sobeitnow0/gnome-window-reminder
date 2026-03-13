@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.window-reminder" path="/org/gnome/shell/extensions/window-reminder/">
+    <key name="idle-timeout" type="i">
+      <default>3</default>
+      <summary>Minutos de inatividade</summary>
+      <description>Número de minutos antes de notificar sobre janelas em background.</description>
+    </key>
+  </schema>
+</schemalist>

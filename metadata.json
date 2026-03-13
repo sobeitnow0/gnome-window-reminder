@@ -1,0 +1,8 @@
+{
+  "name": "Background Window Reminder",
+  "description": "Notifica quando uma janela em segundo plano está inativa por muito tempo (padrão 3 min).",
+  "uuid": "window-reminder@sobeitnow0",
+  "shell-version": [ "50" ],
+  "url": "https://github.com/sobeitnow0",
+  "version": 1
+}
